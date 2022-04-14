@@ -1,0 +1,32 @@
+domain	otu.id	isolate.match	reads.my.data	pct.my.data	genus.rdp	genus.silva	potu.match	potu.genus	blast.potu.2019	match.2019	genus.rdp.2019	consensus.match	hub.match.tequilana.2020	hub.match.salmiana.2021	
+Bacteria	OTU_13	Arthrobacter_sp_AT1_4	36986	1.491437722	g:Paeniglutamicibacter	g:Arthrobacter	potu26	g:Micrococcaceae	potu214	OTU_523	NA	OTU_523			
+Bacteria	OTU_31	Bacillus_niacini_AT2_8	16239	0.654827696	NA	g:Bacillus	potu29	g:Paenisporosarcina	potu7	OTU_14	g:Bacillus	OTU_31	potu19		
+Bacteria	OTU_29	Belnapia_rosea_MJ22	17477	0.704749285	g:Belnapia	NA	"potu2969;potu3649;potu4753"	"g:Roseomonas;g:Roseomonas;g:Roseomonas"	potu2969	OTU_29	g:Belnapia	OTU_29	potu543	"potu351;potu773"	
+Bacteria	OTU_31	Bhargavaea_ginsengi_C13	16239	0.654827696	NA	g:Bacillus	potu29	g:Paenisporosarcina	potu29	OTU_31	NA	OTU_31			
+Bacteria	OTU_2314	Cellulomonas_cellasea_RAS26	804	0.032420806	g:Cellulomonas	g:Cellulomonas	NA	NA	potu108	OTU_26	g:Cellulomonas	OTU_26		potu108	
+Bacteria	OTU_6	Curtobacterium_oceanosedimentum_AS1_15	81398	3.28232433	g:Curtobacterium	NA	"potu2692;potu4991;potu97"	"g:Curtobacterium;NA;g:Yonghaparkia"	potu2692	OTU_6	g:Curtobacterium	OTU_6			
+Bacteria	OTU_3	Erwinia_gerundensis_AT3_11	131798	5.314673358	g:Pantoea	g:Pantoea	potu243	g:Pantoea	potu243	OTU_3	g:Pantoea	OTU_3			
+Bacteria	OTU_417	Frigoribacterium_endophyticum_AS3_20	3821	0.154079477	NA	g:Frigoribacterium	potu651	g:Frigoribacterium	potu651	OTU_417	g:Frigoribacterium	OTU_417		potu651	
+Bacteria	OTU_33	Kineococcus_radiotolerans_AS2_23	16625	0.670392909	g:Kineococcus	g:Kineococcus	potu434	g:Kineococcus	potu434	OTU_33	g:Kineococcus	OTU_33	potu434		
+Bacteria	OTU_1156	Kytococcus_sedentarius_RAS25	NA	NA	g:Kytococcus	g:Kytococcus	NA	NA	NA	NA	NA	OTU_1156	NA	NA	NA
+Bacteria	OTU_778	Leptolyngbya_sp_AT32P	NA	NA	NA	g:Leptolyngbya	NA	NA	NA	NA	NA	OTU_778	NA	NA	
+Bacteria	OTU_481	Massilia_aurea_AT3_2	5534	0.223155149	g:Massilia	g:Massilia	NA	NA	potu25	OTU_4	g:Massilia	OTU_481	potu25		
+Bacteria	OTU_23	Methylobacterium_sp_RAS18	14402	0.5807518	g:Methylorubrum	g:Methylobacterium	potu300	g:Methylobacterium	potu300	OTU_23	g:Methylobacterium	OTU_23	"potu39;potu95"	potu990	
+Bacteria	OTU_260	Micrococcus_aloeverae_RAT4	1297	0.052300728	g:Micrococcus	g:Micrococcus	NA	NA	potu1075	OTU_5373	g:Micrococcaceae	OTU_260	potu26	potu26	
+Bacteria	OTU_221	Nocardioides_cavernae_AT2_17	1638	0.066051343	g:Nocardioides	g:Nocardioides	potu2975	g:Nocardioides	potu2975	OTU_221	g:Nocardioides	OTU_221	potu343	potu434	
+Bacteria	OTU_1527	Nodosilinea_sp_AT21F	NA	NA	NA	NA	NA	NA	NA	NA	NA	OTU_1527	NA	NA	
+Bacteria	OTU_6296	Paenibacillus_sp_A5	NA	NA	g:Paenibacillus	g:Paenibacillus	NA	NA	potu260	OTU_1038	g:Paenibacillus	OTU_1038			
+Bacteria	OTU_3	Pantoea_brenneri_A11	131798	5.314673358	g:Pantoea	g:Pantoea	potu243	g:Pantoea	potu362	OTU_2295	o:Enterobacterales	OTU_3			
+Bacteria	OTU_82	Paraburkholderia_caledonica_A13	7713	0.311021985	g:Paraburkholderia	g:Burkholderia	potu24	g:Burkholderia	potu24	OTU_82	g:Burkholderia	OTU_82			
+Bacteria	OTU_468	Phyllobacterium_sp_A21	NA	NA	g:Phyllobacterium	g:Phyllobacterium	NA	NA	potu2436	OTU_296	o:Rhizobiales	OTU_468			
+Bacteria	OTU_25	Pseudomonas_sp_AS2_8	21168	0.853586592	g:Pseudomonas	g:Pseudomonas	potu64	g:Pseudomonas	potu64	OTU_25	g:Pseudomonas	OTU_25			
+Bacteria	OTU_1842	Rathayibacter_caricis_AS1_22	795	0.032057886	g:Rathayibacter	NA	NA	NA	potu4308	OTU_6850	NA	OTU_1842			
+Bacteria	OTU_2630	Rhizobium_soli_AS3_12	717	0.028912584	NA	g:Rhizobium	NA	NA	potu304	OTU_274	NA	OTU_2630			
+Bacteria	OTU_19	Rhizobium_sp_RAS22	537	0.021654195	g:Rhizobium	g:Rhizobium	potu4751	NA	potu8	OTU_501	g:Shinela	OTU_501			
+Bacteria	OTU_237	Sphingomonas_aerolata_AS2_4	2848	0.11484385	g:Sphingomonas	g:Sphingomonas	potu347	g:Sphingomonas	potu347	OTU_237	g:Sphingomonas	OTU_237		p_1310	
+Bacteria	OTU_61	Sphingomonas_endophytica_AS3_13	9498	0.383001013	g:Sphingomonas	g:Sphingomonas	potu2277	g:Sphingomonas	potu2277	OTU_61	g:Sphingomonas	OTU_61			
+Bacteria	OTU_8	Sphingomonas_melonis_AS2_3	NA	NA	g:Sphingomonas	g:Sphingomonas	"potu1583;potu1639;potu23;potu2464;potu2892;potu3374"	"g:Sphingomonas;g:Sphingomonas;g:Sphingomonas;g:Sphingomonas;g:Sphingomonas;g:Sphingomonas"	putu23	OTU_8	g:Sphingomonas	OTU_8			
+Bacteria	OTU_87	Staphylococcus_hominis_AtDRG32	1085	0.043751958	g:Staphylococcus	g:Staphylococcus	potu99	g:Staphylococcus	potu99	OTU_87	g:Staphylococcus	OTU_87	potu99	potu100	
+Bacteria	OTU_272	Streptomyces_cacaoi_C6	2377	0.095851064	g:Streptomyces	NA	"potu3163;potu61"	"g:Streptomyces;g:Streptomyces"	potu61	OTU_272	g:Streptomyces	OTU_272			
+Fungi	OTU_6221	Aureobasidium_melanogenum_AT3_8	NA	NA	g:Dioscorea	g:Valsa	"potu_108;potu_1112;potu_1142;potu_1478;potu_1523;potu_1530;potu_208;potu_2215;potu_2394;potu_2603;potu_2853;potu_2961;potu_3;potu_3347;potu_3581;potu_3742;potu_3802;potu_3963;potu_4091;potu_4195;potu_4221;potu_4316;potu_4499;potu_4541;potu_5139;potu_5466;potu_5467;potu_5875;potu_5975;potu_6306;potu_770;potu_7945"	"g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium;g__Aureobasidium"				OTU_6221			
+Fungi	OTU_8236	Cladosporium_sp_cutV	NA	NA	NA	NA	"potu_1216;potu_1617;potu_1761;potu_2;potu_2297;potu_2573;potu_2619;potu_2667;potu_2890;potu_3174;potu_3829;potu_4152;potu_4250;potu_4673;potu_5272;potu_6140;potu_6472;potu_6486;potu_6547;potu_6549;potu_6728;potu_7240;potu_7415"	"g__Cladosporium;g__Davidiella;g__Phaeoisariopsis;g__Cladosporium;g__Cladosporium;g__Cladosporium;g__Cladosporium;NA;g__Cladosporium;g__Apiosporina;g__Apiosporina;g__Apiosporina;g__Cladosporium;g__Apiosporina;NA;g__Apiosporina;g__Cladosporium;g__Phaeoisariopsis;g__Apiosporina;g__Apiosporina;g__Cladosporium;g__Cladosporium;g__Cladosporium"				OTU_8236			
